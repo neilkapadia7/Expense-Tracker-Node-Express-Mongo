@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://im_neil17:neilkap7@expense-tracker-clqnd.mongodb.net/test?retryWrites=true&w=majority"
+}
